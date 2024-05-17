@@ -1,0 +1,21 @@
+#form {
+  padding: 10px 10px;
+  max-width: 350px;
+  margin: 0 auto;
+  background-color: aliceblue;
+  box-shadow: 5px 5px rgb(162, 195, 224);
+}
+
+input {
+  margin: 10px 10px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.main-in {
+  display: flex;
+  gap: 7px;
+}
